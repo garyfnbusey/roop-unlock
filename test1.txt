@@ -1,1 +1,2 @@
 test modifying a file
+this is the file
